@@ -1,0 +1,20 @@
+Monthly Leave Summary Report
+Month: 10-2025
+
+Student Name | Start Date  | End Date    | Reason       | Status
+-------------|-------------|-------------|--------------|--------
+Priya        | 2025-10-15  | 2025-10-16  | Fever        | Approved
+Priya        | 2025-10-15  | 2025-10-16  | Fever        | Approved
+Priya        | 2025-10-20  | 2025-10-20  | Cold         | Rejected
+Priya        | 2025-10-26  | 2025-10-26  | die          | Approved
+Priya        | 2025-10-25  | 2025-10-26  | sick         | Approved
+Priya        | 2025-10-15  | 2025-10-15  | stomach pain | Pending
+Priya        | 2025-10-15  | 2025-10-15  | stomach pain | Pending
+Priya        | 2025-10-15  | 2025-10-16  | head ache    | Pending
+Priya        | 2025-10-15  | 2025-10-16  | head ache    | Pending
+Sanju        | 2025-10-20  | 2025-10-20  | Temple       | Pending
+Sanju        | 2025-10-20  | 2025-10-20  | Temple       | Pending
+Sanju        | 2025-10-20  | 2025-10-20  | Temple       | Pending
+Siva         | 2025-10-16  | 2025-10-16  | Temple       | Approved
+Siva         | 2025-10-16  | 2025-10-16  | Temple       | Rejected
+Latha        | 2025-10-23  | 2025-10-24  | Temple       | Pending

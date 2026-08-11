@@ -1,7 +1,7 @@
 Activity,Avg_CO2_Emission(kg/day),Category
-Car (Petrol, 20 km),4.6,Transport
-Bus (20 km),1.2,Transport
-Bicycle (20 km),0.0,Transport
+Car (Petrol, 20 km),4.6,Transportation
+Bus (20 km),1.2,Transportation
+Bicycle (20 km),0.0,Transportation
 AC usage (8 hrs/day),6.0,Household
 LED Bulb (5 hrs/day),0.05,Household
 Old Bulb (5 hrs/day),0.2,Household
